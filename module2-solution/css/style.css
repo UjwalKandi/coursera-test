@@ -30,19 +30,20 @@ section>h2 {
     font-weight: bold;
     height: 45px;
     padding-top: 10px;
+    background-color: yellow;
 }
 
 section.HTML>h2 {
-    background-color: #76b8db;
+    background-color: yello;
 }
 
 section.CSS>h2 {
-    background-color: #4f7acd;
+    background-color: red;
 }
 
 section.JavaScript>h2 {
     color: #e2e2e2;
-    background-color: #10328a;
+    background-color: green;
 }
 
 section>p {
