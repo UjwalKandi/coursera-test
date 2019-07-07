@@ -6,6 +6,9 @@
 body {
     background-color: gray;
 }
+.a {
+    background-color: pink;
+}
 
 h1 {
     text-align: center;
@@ -34,7 +37,7 @@ section>h2 {
 }
 
 section.HTML>h2 {
-    background-color: yello;
+    background-color: yellow;
 }
 
 section.CSS>h2 {
